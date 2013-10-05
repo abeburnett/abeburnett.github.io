@@ -4,7 +4,7 @@
  <title>Abe Burnett</title>
  <link href="http://abeburnett.github.com/atom.xml" rel="self"/>
  <link href="http://abeburnett.github.com/"/>
- <updated>2013-10-04T17:10:27-07:00</updated>
+ <updated>2013-10-04T17:16:59-07:00</updated>
  <id>http://abeburnett.github.com</id>
  <author>
    <name>Abe Burnett</name>
@@ -37,7 +37,7 @@
       &lt;/p&gt;&lt;p&gt;
       But for me, blogging on Wordpress is a cinch for my needs. And that&#39;s what I&#39;m using. Simply writing this single post in HTML has been...well, gross. I avoid HTML even when coding because it&#39;s difficult to digest, and my fingers hate all the extra keystrokes. I use HAML, Slim, or Jade instead. I&#39;d rather deal with their idiocyncrasies than wrangle HMTL. Yuck.
       &lt;/p&gt;&lt;p&gt;
-      For those who are looking for my real blog. Please go &lt;a href=&quot;http://abeburnettcoding.wordpress.com&quot;&gt;here&lt;/a&gt;.
+      For those who are looking for my real blog. Please go &lt;a href=&quot;http://abeburnettcodes.wordpress.com&quot;&gt;here&lt;/a&gt;.
       &lt;/p&gt;
       &lt;/div&gt;
  &lt;/div&gt;
